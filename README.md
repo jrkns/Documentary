@@ -10,4 +10,8 @@ Most of documentary coursework.
 - [prefinal2](https://github.com/jrkns/Documentary/blob/master/SA/prefinal2.gpg): Project Pre-Final Report 2 (Encrypted)
 - [final](https://github.com/jrkns/Documentary/blob/master/SA/final.gpg): Project Final Report (Encrypted)
 
+## Programming Languages Principles
+- [how_python](https://github.com/jrkns/Documentary/blob/master/proglang/how_python.pdf): How does Python really works?
+- [qa_python](https://github.com/jrkns/Documentary/blob/master/proglang/qa_python.pdf): Q/A about Python
+
 *If you really want to see encrypted document please contact me: jrkns1996@gmail.com
