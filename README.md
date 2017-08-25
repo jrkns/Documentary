@@ -10,4 +10,4 @@ Most of documentary coursework.
 - [prefinal2](https://github.com/jrkns/Documentary/blob/master/SA/prefinal2.gpg): Project Pre-Final Report 2 (Encrypted)
 - [final](https://github.com/jrkns/Documentary/blob/master/SA/final.gpg): Project Final Report (Encrypted)
 
-## If you really want to see encrypted document please contact me: jrkns1996@gmail.com
+**If you really want to see encrypted document please contact me: jrkns1996@gmail.com
