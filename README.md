@@ -14,4 +14,14 @@ Most of documentary coursework.
 - [how_python](https://github.com/jrkns/Documentary/blob/master/proglang/how_python.pdf): How does Python really works?
 - [qa_python](https://github.com/jrkns/Documentary/blob/master/proglang/qa_python.pdf): Q/A about Python
 
+## Computer Security
+- [assign1](https://github.com/jrkns/Documentary/blob/master/secure/assign1.pdf): Assignment 1 - Password Security
+- [assign3](https://github.com/jrkns/Documentary/blob/master/secure/assign3.pdf): Assignment 3 - Buffer Overflow
+- [assign4](https://github.com/jrkns/Documentary/blob/master/secure/assign4.pdf): Assignment 4 - Web Seal
+- [assign5](https://github.com/jrkns/Documentary/blob/master/secure/assign5.pdf): Assignment 5 - Secure Web Server
+- [g_assign1](https://github.com/jrkns/Documentary/blob/master/secure/g_assign1.pdf): Group Study - BlackBerry One
+
+## Computer System Architecture
+- [assign2](https://github.com/jrkns/Documentary/blob/master/arch/assign2.pdf): Assignment 2 - Cache Simulation
+
 *If you really want to see encrypted document please contact me: jrkns1996@gmail.com
