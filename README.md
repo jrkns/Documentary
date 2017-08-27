@@ -28,7 +28,13 @@ Most of documentary coursework.
 - [assign5](https://github.com/jrkns/Documentary/blob/master/secure/assign5.pdf): Assignment 5 - Secure Web Server
 - [g_assign1](https://github.com/jrkns/Documentary/blob/master/secure/g_assign1.pdf): Group Study - BlackBerry One
 
+## Technical Writting for Engineering
+- [final](https://github.com/jrkns/Documentary/blob/master/techwrite/final.pdf): Final Report
+
 ## Computer System Architecture
 - [assign2](https://github.com/jrkns/Documentary/blob/master/arch/assign2.pdf): Assignment 2 - Cache Simulation
+
+## Intro to Law
+- [self_defend](https://github.com/jrkns/Documentary/blob/master/law/self_defend.pdf): All about law of self-defending
 
 *If you really want to see encrypted document please contact me: jrkns1996@gmail.com
