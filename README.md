@@ -1,6 +1,13 @@
 # Documentary
 Most of documentary coursework.
 
+## Database Management Systems Design
+- [initial](https://github.com/jrkns/Documentary/blob/master/db/initial.pdf): Initial Report
+- [ER](https://github.com/jrkns/Documentary/blob/master/db/ER.pdf): ER-Diagram
+- [install](https://github.com/jrkns/Documentary/blob/master/db/install.pdf): Installation Guide
+- [report_tem](https://github.com/jrkns/Documentary/blob/master/db/report_tem.pdf): Report Template
+- [final](https://github.com/jrkns/Documentary/blob/master/db/final.gpg): Final Report (Encrypted)
+
 ## Systems Analysis and Design
 - [proposal](https://github.com/jrkns/Documentary/blob/master/SA/proposal.pdf): Project Proposal
 - [analysis](https://github.com/jrkns/Documentary/blob/master/SA/analysis.gpg): Analysis Document (Encrypted)
