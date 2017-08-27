@@ -28,6 +28,9 @@ Most of documentary coursework.
 - [assign5](https://github.com/jrkns/Documentary/blob/master/secure/assign5.pdf): Assignment 5 - Secure Web Server
 - [g_assign1](https://github.com/jrkns/Documentary/blob/master/secure/g_assign1.pdf): Group Study - BlackBerry One
 
+## Internship Report
+- [intern](https://github.com/jrkns/Documentary/blob/master/intern/intern.gpg): Internhip Report (Encrypted)
+
 ## Technical Writting for Engineering
 - [final](https://github.com/jrkns/Documentary/blob/master/techwrite/final.pdf): Final Report
 
